@@ -1,6 +1,8 @@
 import cv2
 import os
 
+# EJEMPLO 2 — Detección de contornos
+# 26. CAMELLO
 # ian gutierrez NC 0091
 # Cargar imagen
 
